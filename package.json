@@ -1,0 +1,10 @@
+{
+  "name": "tp4-patterns-creationnels-structuraux",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node tp4-Yaya_Mohamedhen/main.js",
+    "test": "node --test tp4-Yaya_Mohamedhen/tp4.test.js"
+  }
+}

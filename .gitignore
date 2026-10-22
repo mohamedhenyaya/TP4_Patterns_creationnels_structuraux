@@ -1,0 +1,8 @@
+# Ce dépôt ne versionne que le TP 4 (les exemples du cours restent hors du dépôt)
+/*
+!/.gitignore
+!/README.md
+!/package.json
+!/tp4/
+!/tp4-Yaya_Mohamedhen/
+node_modules/
